@@ -42,7 +42,4 @@ section{
     background-color:deeppink;
     grid-area: bottom1;
 }
-#bottom2{
-    background-color:lawngreen;
-    grid-area: bottom2;
-}
+
