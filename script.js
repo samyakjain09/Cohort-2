@@ -9,3 +9,4 @@ while(passward != pass){
     prompt("passward bhohk")
     attempt++;
 }
+console.log("hello")
