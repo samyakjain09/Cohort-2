@@ -1,12 +1,8 @@
-let attempt =0;
-pass="samyak";
-let passward=prompt("passward bhohk");
-attempt++;
-while(passward != pass){
-    if(attempt===3){
-        console.log("nashedi")
-        break;}
-    prompt("passward bhohk")
-    attempt++;
+function details(a){
+    a();
 }
-console.log("hello")
+
+
+details(function(){
+    console.log("hey");
+})
